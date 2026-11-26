@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 794bc8494850994cf1e9de3cc6b9ac57f2762e31 AYON <airdropkarbiters@gmail.com> 1795669987 +0700	commit (initial): Kestrel Run: low-poly archipelago flight game
+794bc8494850994cf1e9de3cc6b9ac57f2762e31 30643e3ad092429c4f66240088b61c09249d452b AYON <airdropkarbiters@gmail.com> 1795671136 +0700	commit: Write main.ts entrypoint: stage game and screenshots, build dossier, print summary
+30643e3ad092429c4f66240088b61c09249d452b 2c55da95a00d6e2960a374b60d283460c0391b69 AYON <airdropkarbiters@gmail.com> 1795671363 +0700	commit: Ignore the local bundle archive

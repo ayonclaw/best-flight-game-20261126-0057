@@ -1,0 +1,6 @@
+[
+  { "name": "1-rings.png", "query": "?shot=rings" },
+  { "name": "2-cockpit.png", "query": "?shot=cockpit" },
+  { "name": "3-landing.png", "query": "?shot=landing" },
+  { "name": "4-islands.png", "query": "?shot=islands" }
+]
